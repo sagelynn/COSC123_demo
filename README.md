@@ -1,2 +1,2 @@
 # COSC123_demo
-# GitHub demo for COSC 123.
+ GitHub demo for COSC 123.
