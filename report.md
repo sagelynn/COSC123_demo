@@ -10,3 +10,17 @@ This is a list:
 - Item 1
 - Item 2
 - Item 3
+
+This is a numbered list:
+1. Item
+2. Item
+3. Item
+
+Lists of Lists:
+- Category
+  - Thing
+  - Thing
+  Thing
+- Another Category
+  - Thing
+  - Thing
